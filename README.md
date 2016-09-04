@@ -6,12 +6,16 @@ This program solves any m*n matrix and prints out the minimum number of moves re
 Example Input : 
     
     4 10 ...OOOOOOO|.OO.O.O...|.OO..OO.OO|...O....O.
+    3 3 ..O|OOO|OOO
+    5 7 .O.O...|..O.O..|.O.O..O|.O..OOO|OO.OOOO
 
 4 -> Number of rows ; 10 -> Number of columns ;  '.' -> toggle off ; 'O' -> toggle on ; '|' -> break between 2 consecutive rows
 
 Example Output : 
     
     19
+    2
+    -1
     
   minimum 19 moves required to solve the test case
 
