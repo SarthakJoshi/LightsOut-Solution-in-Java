@@ -9,7 +9,7 @@ Example Input :
     3 3 ..O|OOO|OOO
     5 7 .O.O...|..O.O..|.O.O..O|.O..OOO|OO.OOOO
 
-4 -> Number of rows ; 10 -> Number of columns ;  '.' -> toggle off ; 'O' -> toggle on ; '|' -> break between 2 consecutive rows
+Explanation : In 1st test case, 4 -> Number of rows ; 10 -> Number of columns ;  '.' -> toggle off ; 'O' -> toggle on ; '|' -> break between 2 consecutive rows
 
 Example Output : 
     
