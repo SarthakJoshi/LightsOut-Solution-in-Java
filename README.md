@@ -9,14 +9,12 @@ Example Input :
     3 3 ..O|OOO|OOO
     5 7 .O.O...|..O.O..|.O.O..O|.O..OOO|OO.OOOO
 
-Explanation : In 1st test case, 4 -> Number of rows ; 10 -> Number of columns ;  '.' -> toggle off ; 'O' -> toggle on ; '|' -> break between 2 consecutive rows
-
 Example Output : 
     
     19
     2
     -1
     
-  minimum 19 moves required to solve the test case
+Explanation : In 1st test case, 4 -> Number of rows ; 10 -> Number of columns ;  '.' -> toggle off ; 'O' -> toggle on ; '|' -> break between 2 consecutive rows, and minimum 19 moves required to solve the test case
 
 P.S. I'll be uploading Test Cases in Junit and TestNG
