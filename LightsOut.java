@@ -1,6 +1,6 @@
 /**
  *
- * CodeEval Sponsored Challenge - Lights Out (By HireVue)
+ * CodeEval - Lights Out
  * author (of the following program) - Sarthak Joshi
  *
  */
