@@ -16,5 +16,3 @@ Example Output :
     -1
     
 Explanation : In 1st test case, 4 -> Number of rows ; 10 -> Number of columns ;  '.' -> toggle off ; 'O' -> toggle on ; '|' -> break between 2 consecutive rows, and minimum 19 moves required to solve the test case
-
-P.S. I'll be uploading Test Cases in Junit and TestNG
